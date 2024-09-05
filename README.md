@@ -1,7 +1,7 @@
 # About Me
-Detail-oriented operations professional turned QA Engineer with strong business acumen and enterprise-level project management experience. A proactive self-starter, adaptable in any environment, with a committment for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
+Confident and analytical operations professional turned Software QA Engineer with strong business acumen and enterprise-level project management experience. Comitted to the big picture and all the parts and pieces that make it happen. A proactive self-starter, adaptable in any industry or environment, with an enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
 
-[View my resume](https://drive.google.com/file/d/1UocZP3ZqKhGB5MNVnHdabQnFXZcea1VB/view?usp=sharing)
+[View/Download my resume](https://drive.google.com/file/d/12K9-zQbeddjx7It84T-j0PVfOatjKo2f/view?usp=sharing)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amyejenkins/)
 
@@ -10,12 +10,16 @@ Detail-oriented operations professional turned QA Engineer with strong business 
 - MBA in Management, MA in Arts Management @ Southern Methodist University (May 2015)
 - BA, EC-12 Music Education @ Texas Tech University (December 2012)
 
+### Courses
+- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=OF83024F) *in progress*
+- [Playwright: Web Automation Testing From Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/?couponCode=OF83024F) *in progress*
+
 ### Certifications
 - [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/q6y7IxLtR6itCnWW6VnE9A)
 - [HubSpot Sales Software](https://app.hubspot.com/academy/achievements/rf8spqmy/en/1/amy-jenkins/hubspot-sales-software)
 
 ### Technical Skills
-Manual Testing | Automated Testing | Web Application Testing | API Testing | Mobile Testing | Database Testing |  Test Planning | Requirements Analysis | Chrome DevTools | Postman | JSON | JavaScript | WebdriverIO | Jest | Node.js | Mocha | VS Code | Git/GitHub | SQL | PostgreSQL | Android Studio | JIRA | Asana | Trello | Agile Methodologies | Figma | HubSpot CRM Admin | Salesforce CRM | FigJam | Gusto | Harvest | BigTime | QuickBooks
+Manual Testing | Automated Testing | JavaScript | Web Application Testing | API Testing | Mobile Testing | Database Testing | Test Planning | Chrome DevTools | Postman | JSON | WebdriverIO | Playwright | TypeScript | Jest | Node.js | Mocha | VS Code | Git/GitHub | SQL | PostgreSQL | Android Studio | JIRA | Asana | Trello | Agile Methodologies | Figma | HubSpot CRM Admin | Salesforce CRM | FigJam | Gusto | Harvest | BigTime | QuickBooks
 
 ### Software QA Projects
 #### TripleTen QA Engineering Bootcamp	
@@ -32,6 +36,32 @@ Manual Testing | Automated Testing | Web Application Testing | API Testing | Mob
   - [Team Test Cases & Report](https://docs.google.com/spreadsheets/d/1V9hA462A3x1HTPBjmcm-1uRCoL1AdMA3SBA-0W8rvd0/edit?usp=sharing)
   - [Team Presentation](https://docs.google.com/presentation/d/1Hp8TbMYgkyfN90onQlNI-TOtRPaKv2eDHr1qJvdMtd4/edit?usp=sharing)
   - [YouTube LiveStream](https://docs.google.com/presentation/d/1Hp8TbMYgkyfN90onQlNI-TOtRPaKv2eDHr1qJvdMtd4/edit?usp=sharing)
+
+#### [Urban Routes Web App](https://github.com/ams890/Project-8-Urban-Routes)
+*Technology Used: Chrome DevTools, WebDriverIO, Mocha, node.js, JavaScript, VS Code, JIRA, GitHub*
+- Tested frontend of the web app that builds routes and calculates travel time and cost for different types of transportation
+- Tested new feature under development using Chrome DevTools to modify the response from the server
+- Wrote automated tests in JavaScript using WebDriverIO and the Mocha framework
+- Intercepted and spoofed server requests or responses manually and automatically 
+- Decomposed requirements into atomic blocks based on technical documentation
+- Designed positive and negative test cases, accounting for equivalence partitioning, boundary values, and UI layouts
+- Wrote bug reports in JIRA
+
+*Project Assets:*
+- [Requirements Analysis](https://docs.google.com/document/d/1dzUQ8MYaTAUz4ZuLGS3bFAboOJu8K-tXPMvacyaqlQY/edit?usp=sharing)
+- [Manual Test Cases](https://docs.google.com/spreadsheets/d/1ugLp9Vk0c0D1TQP0oee32tsLkeOsgoIeVKyFxxdpkxc/edit?usp=sharing)
+- [GitHub Repo](https://github.com/ams890/Project-8-Urban-Routes)
+
+#### [Urban Grocers App](https://github.com/ams890/Project-7-Urban-Grocers)
+*Technology Used: Postman, JSON, XML, HTML, Node.js, JavaScript, VS Code, JIRA, GitHub*
+- Performed API testing on the backend of an app that creates and delivers custom grocery kits
+- Analyzed APIdocs to create comprehensive test cases, including JSON and XML request bodies, and designed test data to include boundary values and appropriate equivalence classes
+- Manually conducted tests via Postman and evaluated response bodies and status codes to identify bugs
+- Wrote automated test scripts for HTTP requests using Node.js and JavaScript, Jest to validate the API’s response
+
+*Project Assets:*
+- [Test Case Documentation](https://docs.google.com/spreadsheets/d/1j3b1ba079ZUMFJndQneT-gdrQprXC-UDq1LUaiMXB1s/edit?usp=sharing)
+- [GitHub Repo](https://github.com/ams890/Project-7-Urban-Grocers)
 
 #### Urban Scooter Web App | Mobile App | Backend
 *Technology Used: Android Studio, JIRA, Chrome DevTools, Postman, PostgreSQL, SQL, Terminal*
@@ -50,35 +80,9 @@ Manual Testing | Automated Testing | Web Application Testing | API Testing | Mob
 *Project Assets:*
 - [Test Case Documentation](https://docs.google.com/spreadsheets/d/1Ts2nzffawKvVVImZbnLPsfuGZxEw_Tcxi3zpzaTapx8/edit?usp=sharing)
 
-#### [Urban Grocers App](https://github.com/ams890/Project-7-Urban-Grocers)
-*Technology Used: Postman, JSON, XML, HTML, Node.js, JavaScript, VS Code, JIRA, GitHub*
-- Performed API testing on the backend of an app that creates and delivers custom grocery kits
-- Analyzed APIdocs to create comprehensive test cases, including JSON and XML request bodies, and designed test data to include boundary values and appropriate equivalence classes
-- Manually conducted tests via Postman and evaluated response bodies and status codes to identify bugs
-- Wrote automated test scripts for HTTP requests using Node.js and JavaScript, Jest to validate the API’s response
-
-*Project Assets:*
-- [Test Case Documentation](https://docs.google.com/spreadsheets/d/1j3b1ba079ZUMFJndQneT-gdrQprXC-UDq1LUaiMXB1s/edit?usp=sharing)
-- [GitHub Repo](https://github.com/ams890/Project-7-Urban-Grocers)
-
-#### [Urban Routes Web App](https://github.com/ams890/Project-8-Urban-Routes)
-*Technology Used: Chrome DevTools, WebDriverIO, Mocha, node.js, JavaScript, VS Code, JIRA, GitHub*
-- Tested frontend of the web app that builds routes and calculates travel time and cost for different types of transportation
-- Tested new feature under development using Chrome DevTools to modify the response from the server
-- Wrote automated tests in JavaScript using WebDriverIO and the Mocha framework
-- Intercepted and spoofed server requests or responses manually and automatically 
-- Decomposed requirements into atomic blocks based on technical documentation
-- Designed positive and negative test cases, accounting for equivalence partitioning, boundary values, and UI layouts
-- Wrote bug reports in JIRA
-
-*Project Assets:*
-- [Requirements Analysis](https://docs.google.com/document/d/1dzUQ8MYaTAUz4ZuLGS3bFAboOJu8K-tXPMvacyaqlQY/edit?usp=sharing)
-- [Manual Test Cases](https://docs.google.com/spreadsheets/d/1ugLp9Vk0c0D1TQP0oee32tsLkeOsgoIeVKyFxxdpkxc/edit?usp=sharing)
-- [GitHub Repo](https://github.com/ams890/Project-8-Urban-Routes)
-
 ### Professional Experience
 #### RED THREAD BRANDS (Portland, OR) 
-*Reason for Leaving: Company shutdown*
+*Reason for Leaving: Company closed down*
 
 *Chief of Staff (September 2022 - October 2023)*	
 - Directed operations for the company, including accounting, billing, sales operations, technology, compliance, and administrative functions
@@ -107,6 +111,8 @@ Manual Testing | Automated Testing | Web Application Testing | API Testing | Mob
 - Discretely managed sensitive & confidential information on a regular basis
 
 #### SOLIS MAMMOGRAPHY (Addison, TX)
+*Reason for Leaving: Relocation to Austin, TX*
+
 *Executive Assistant to COO & CIO (March 2017 - October 2019)*
 - Strategically partnered with the COO and CIO as the company grew from 25 to 65 imaging centers
 - Prepared and processed weekly expense reports & invoices using Concur
@@ -114,7 +120,7 @@ Manual Testing | Automated Testing | Web Application Testing | API Testing | Mob
 - Nurtured key relationships with board memebers, team members, vendors, and hospital partners to further company objectives
 - Led initiation phase of master data management project, selecting a BI platform, managing a team of three consultants, and developing a center performance dashboard prototype
 
-*Administrative Assistant to COO, CFO & CIO	April 2016 - March 2017*
+*Administrative Assistant to COO, CFO & CIO	(April 2016 - March 2017)*
 - Provided attentive and detailed administrative support to three c-level executives
 - Produced the Annual Conference, coordinating logistics, personnel, and presentations across all functional areas of the company
 - Developed and implemented a master facility list and lease tracking system
