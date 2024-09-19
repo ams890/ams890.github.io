@@ -1,5 +1,5 @@
 # About Me
-Confident and analytical operations professional turned Software QA Engineer with strong business acumen and enterprise-level project management experience. Comitted to the big picture and all the parts and pieces that make it happen. A proactive self-starter, adaptable in any industry or environment, with an enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
+Confident and analytical operations professional turned Software QA Engineer with strong business acumen and enterprise-level project management experience. Committed to the big picture and all the parts and pieces that make it happen. A proactive self-starter, adaptable in any industry or environment, with an enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
 
 [View/Download my resume](https://drive.google.com/file/d/1GKk-bj9h5_i7F7rqzJy5aKTBl6nERv6I/view?usp=sharing)
 
