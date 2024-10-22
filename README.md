@@ -1,7 +1,7 @@
 # About Me
 Confident and analytical operations professional turned Software QA Engineer with strong business acumen and enterprise-level project management experience. Committed to the big picture and all the parts and pieces that make it happen. A proactive self-starter, adaptable in any industry or environment, with an enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
 
-[View/Download my resume](https://drive.google.com/file/d/1GKk-bj9h5_i7F7rqzJy5aKTBl6nERv6I/view?usp=sharing)
+[View/Download my resume](https://docs.google.com/document/d/19s1mHUyKfZhaNAUG6OMlS5sS24R8PKQQM1_5XPoXakU/edit?usp=sharing)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amyejenkins/)
 
@@ -81,7 +81,15 @@ Manual Testing | Automated Testing | JavaScript | Web Application Testing | API 
 - [Test Case Documentation](https://docs.google.com/spreadsheets/d/1Ts2nzffawKvVVImZbnLPsfuGZxEw_Tcxi3zpzaTapx8/edit?usp=sharing)
 
 ### Professional Experience
-#### RED THREAD BRANDS (Portland, OR) 
+#### APPARENT SOFTWARE (Portland, OR - remote) 
+
+*Software QA Intern (October 2024 - Present)*	
+- Conducting manual exploratory, usability, functional and regression/smoke testing on multiple platforms and devices
+- Collaborating on mind map outlining test strategy, creating and executing test cases
+- Tracking bugs and giving client feedback using Asana
+- Co-working in a remote & international team environment
+
+#### RED THREAD BRANDS (Portland, OR - remote) 
 *Reason for Leaving: Company closed down*
 
 *Chief of Staff (September 2022 - October 2023)*	
@@ -92,7 +100,7 @@ Manual Testing | Automated Testing | JavaScript | Web Application Testing | API 
 - Provided account managemetn support to project teams, including client intake, contract management, billing, analytics, content writing & proofing, and social media coordination
 - Modernized HR practices with policy and agreement templates, leveraged unused capabilities of our HRIS, and created a seamless onboarding process integrating our remote collaboration tools
 
-#### SPIRE CONSULTING GROUP	(Austin, TX) 
+#### SPIRE CONSULTING GROUP	(Austin, TX - hybrid) 
 *Reason for Leaving: Year of travel*
 
 *Operations Manager (September 2020 - October 2021)*
@@ -110,7 +118,7 @@ Manual Testing | Automated Testing | JavaScript | Web Application Testing | API 
 - Supported sales by fielding new leads, researching prospects, in-depth custom reporting and contract execution
 - Discretely managed sensitive & confidential information on a regular basis
 
-#### SOLIS MAMMOGRAPHY (Addison, TX)
+#### SOLIS MAMMOGRAPHY (Addison, TX - in office)
 *Reason for Leaving: Relocation to Austin, TX*
 
 *Executive Assistant to COO & CIO (March 2017 - October 2019)*
