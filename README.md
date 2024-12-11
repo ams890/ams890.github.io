@@ -1,7 +1,7 @@
 # About Me
-Confident and analytical operations professional turned Software QA Engineer with strong business acumen and enterprise-level project management experience. Committed to the big picture and all the parts and pieces that make it happen. A proactive self-starter, adaptable in any industry or environment, with an enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset to drive quality and organizational success. 
+Confident and insightful operations professional turned QA Engineer with strong business acumen and enterprise-level project management experience. Actively deepening skills in accessibility standards, test automation frameworks, and JavaScript/Typescript. Proactive self-starter, adaptable to any industry or environment, with enthusiasm for continuous learning and improving processes. Effective communicator with leadership mindset seeking a role to drive quality outcomes and organizational success.
 
-[View/Download my resume](https://docs.google.com/document/d/19s1mHUyKfZhaNAUG6OMlS5sS24R8PKQQM1_5XPoXakU/edit?usp=sharing)
+[View/Download my resume](https://drive.google.com/file/d/16yO58SOfoiQFgHZrjgdQGh_kRzV1hWkR/view?usp=sharing)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/amyejenkins/)
 
@@ -19,7 +19,7 @@ Confident and analytical operations professional turned Software QA Engineer wit
 - [HubSpot Sales Software](https://app.hubspot.com/academy/achievements/rf8spqmy/en/1/amy-jenkins/hubspot-sales-software)
 
 ### Technical Skills
-Manual Testing | Automated Testing | JavaScript | Web Application Testing | API Testing | Mobile Testing | Database Testing | Test Planning | Project Management | Chrome DevTools | Postman | JSON | WebdriverIO | Playwright | TypeScript | Jest | Node.js | Mocha | VS Code | Git/GitHub | SQL | PostgreSQL | Android Studio | JIRA | Asana | Trello | Agile Methodologies | Figma | HubSpot CRM Admin | Salesforce CRM | FigJam | Gusto | Harvest | BigTime | QuickBooks
+Manual Testing | Automated Testing | JavaScript | Web Application Testing | API Testing | Mobile Testing | Apple OS | Database Testing | Test Planning | Project Management | TestRail | Chrome DevTools | Postman | JSON | WebdriverIO | Playwright | TypeScript | Jest | Node.js | Mocha | VS Code | Git/GitHub | SQL | PostgreSQL | Android Studio | JIRA | Asana | Trello | Agile Methodologies | Figma | HubSpot CRM Admin | Salesforce CRM | FigJam | Gusto | Harvest | BigTime | QuickBooks
 
 ### Software QA Projects
 #### TripleTen QA Engineering Bootcamp	
@@ -83,17 +83,18 @@ Manual Testing | Automated Testing | JavaScript | Web Application Testing | API 
 ### Professional Experience
 #### APPARENT SOFTWARE (Portland, OR - remote) 
 
-*Software QA Intern (October 2024 - Present)*	
-- Conducting manual exploratory, usability, functional and regression/smoke testing on multiple platforms and devices
-- Collaborating on mind map outlining test strategy, creating and executing test cases
-- Tracking bugs and giving client feedback using Asana
-- Co-working in a remote & international team environment
+*Software QA Engineer Intern (October 2024 - December 2024)*	
+- Used Mural to mind map exploratory test strategy for Apple OS radio streaming app (Eter) with no requirements documentation available
+- Created and performed over 40 multi-platform regression tests covering usability, UX, functionality and accessibility, resulting in 12 reported bugs and 6 written recommendations in client’s Asana workspace
+- Contributed previous Asana administration expertise to teammates by providing task templates, how-to’s and 1:1 assistance for new users via Discord threads
+- Partnered with remote teammates across 4 time zones to produce a regression suite, smoke test suite, final test report and client presentation within 6 Agile sprints
+
 
 #### RED THREAD BRANDS (Portland, OR - remote) 
 *Reason for Leaving: Company closed down*
 
 *Chief of Staff (September 2022 - October 2023)*	
-- Directed operations for the company, including accounting, billing, sales operations, technology, compliance, and administrative functions
+- Directed operations, including accounting, billing, sales operations, technology, compliance, and administrative functions
 - Streamlined entire tech stack, created a tech stack diagram on Figma, and eliminated redundant tools and subscriptions, resulting in over $15k savings annually
 - Steered design and implementation of HubSpot CRM software, including project planning, documentation, and milestone tracking
 - Managed relationships with third party vendors for accounting, HR, and software
@@ -121,16 +122,12 @@ Manual Testing | Automated Testing | JavaScript | Web Application Testing | API 
 #### SOLIS MAMMOGRAPHY (Addison, TX - in office)
 *Reason for Leaving: Relocation to Austin, TX*
 
-*Executive Assistant to COO & CIO (March 2017 - October 2019)*
+*Executive Assistant to COO & CIO (April 2016 - October 2019)*
 - Strategically partnered with the COO and CIO as the company grew from 25 to 65 imaging centers
 - Prepared and processed weekly expense reports & invoices using Concur
 - Handled confidential data to compile custom reports, presentations and internal communications for meetings at all levels of the organization
 - Nurtured key relationships with board memebers, team members, vendors, and hospital partners to further company objectives
 - Led initiation phase of master data management project, selecting a BI platform, managing a team of three consultants, and developing a center performance dashboard prototype
-
-*Administrative Assistant to COO, CFO & CIO	(April 2016 - March 2017)*
-- Provided attentive and detailed administrative support to three c-level executives
-- Produced the Annual Conference, coordinating logistics, personnel, and presentations across all functional areas of the company
-- Developed and implemented a master facility list and lease tracking system
+- Promoted from Administrative Assistant to COO, CFO & CIO to Executive Assistant within 1 year of hire
 
 [View my full work history on LinkedIn](https://www.linkedin.com/in/amyejenkins/)
